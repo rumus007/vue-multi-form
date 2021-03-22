@@ -286,7 +286,7 @@
                         type="button"
                         title="Send"
                       >
-                        Send
+                        OK
                       </button>
                     </div>
                   </div>
