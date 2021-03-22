@@ -306,6 +306,7 @@ export default {
   data() {
     return {
       stepper: 1,
+      test: "",
       data: {
         email: "",
         password: "",
